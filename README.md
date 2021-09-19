@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arla-Adithya
-- 👀 I’m interested in Web development And Coding
+- 👀 I’m interested in Web development, Networking And Coding
 - 🌱 I’m currently learning Python And Java
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me - mail-arlaadithya12@gmail.com
